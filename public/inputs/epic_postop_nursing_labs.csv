@@ -1,0 +1,81 @@
+encounter_id,patient_id,preop_hgb_g_dl,postop_nadir_hgb_g_dl,prbc_units_transfused,postop_sodium_meq_l,icu_ventilator_hours,iv_mannitol_or_hypertonic_saline,nursing_flowsheet_note,surgeon_wrote_diagnosis_in_progress_note
+EPIC-ENC-80001,NYCHH-PT-1001,12.8,7.1,2,140,0,0,PACU/Floor RN Note: Hgb dropped from 12.8 to 7.1 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80002,NYCHH-PT-1002,13.3,7.7,1,125,0,1,Floor RN Note: Post-op BMP Na+ 125 mEq/L (critical low) and Hgb 7.7. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80003,NYCHH-PT-1003,13.6,11.3,0,147,34,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 34 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80004,NYCHH-PT-1004,14.0,12.6,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80005,NYCHH-PT-1005,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80006,NYCHH-PT-1006,14.2,7.5,2,137,0,0,PACU/Floor RN Note: Hgb dropped from 14.2 to 7.5 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80007,NYCHH-PT-1007,14.2,7.8,1,126,0,1,Floor RN Note: Post-op BMP Na+ 126 mEq/L (critical low) and Hgb 7.8. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80008,NYCHH-PT-1008,13.0,11.0,0,143,37,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 37 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80009,NYCHH-PT-1009,13.3,12.8,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80010,NYCHH-PT-1010,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80011,NYCHH-PT-1011,14.0,7.1,2,138,0,0,PACU/Floor RN Note: Hgb dropped from 14.0 to 7.1 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80012,NYCHH-PT-1012,13.1,7.6,1,126,0,1,Floor RN Note: Post-op BMP Na+ 126 mEq/L (critical low) and Hgb 7.6. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80013,NYCHH-PT-1013,12.7,11.1,0,145,41,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 41 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80014,NYCHH-PT-1014,13.3,12.0,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80015,NYCHH-PT-1015,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80016,NYCHH-PT-1016,13.9,7.0,2,138,0,0,PACU/Floor RN Note: Hgb dropped from 13.9 to 7.0 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80017,NYCHH-PT-1017,14.4,7.2,1,125,0,1,Floor RN Note: Post-op BMP Na+ 125 mEq/L (critical low) and Hgb 7.2. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80018,NYCHH-PT-1018,13.7,10.5,0,146,32,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 32 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80019,NYCHH-PT-1019,14.4,12.8,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80020,NYCHH-PT-1020,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80021,NYCHH-PT-1021,14.2,7.7,2,136,0,0,PACU/Floor RN Note: Hgb dropped from 14.2 to 7.7 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80022,NYCHH-PT-1022,13.1,7.8,1,126,0,1,Floor RN Note: Post-op BMP Na+ 126 mEq/L (critical low) and Hgb 7.8. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80023,NYCHH-PT-1023,12.7,11.2,0,146,32,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 32 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80024,NYCHH-PT-1024,13.3,12.8,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80025,NYCHH-PT-1025,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80026,NYCHH-PT-1026,13.5,7.6,2,138,0,0,PACU/Floor RN Note: Hgb dropped from 13.5 to 7.6 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80027,NYCHH-PT-1027,14.5,7.8,1,127,0,1,Floor RN Note: Post-op BMP Na+ 127 mEq/L (critical low) and Hgb 7.8. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80028,NYCHH-PT-1028,13.8,10.4,0,147,37,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 37 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80029,NYCHH-PT-1029,13.8,12.7,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80030,NYCHH-PT-1030,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80031,NYCHH-PT-1031,13.9,7.2,2,139,0,0,PACU/Floor RN Note: Hgb dropped from 13.9 to 7.2 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80032,NYCHH-PT-1032,14.3,7.7,1,127,0,1,Floor RN Note: Post-op BMP Na+ 127 mEq/L (critical low) and Hgb 7.7. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80033,NYCHH-PT-1033,13.8,10.8,0,144,36,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 36 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80034,NYCHH-PT-1034,14.1,11.9,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80035,NYCHH-PT-1035,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80036,NYCHH-PT-1036,13.1,7.3,2,137,0,0,PACU/Floor RN Note: Hgb dropped from 13.1 to 7.3 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80037,NYCHH-PT-1037,13.3,7.4,1,128,0,1,Floor RN Note: Post-op BMP Na+ 128 mEq/L (critical low) and Hgb 7.4. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80038,NYCHH-PT-1038,14.1,10.3,0,143,35,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 35 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80039,NYCHH-PT-1039,14.0,12.6,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80040,NYCHH-PT-1040,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80041,NYCHH-PT-1041,13.6,7.2,2,139,0,0,PACU/Floor RN Note: Hgb dropped from 13.6 to 7.2 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80042,NYCHH-PT-1042,13.9,7.4,1,126,0,1,Floor RN Note: Post-op BMP Na+ 126 mEq/L (critical low) and Hgb 7.4. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80043,NYCHH-PT-1043,13.3,10.7,0,145,38,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 38 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80044,NYCHH-PT-1044,14.1,12.3,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80045,NYCHH-PT-1045,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80046,NYCHH-PT-1046,13.1,7.3,2,141,0,0,PACU/Floor RN Note: Hgb dropped from 13.1 to 7.3 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80047,NYCHH-PT-1047,13.4,7.9,1,127,0,1,Floor RN Note: Post-op BMP Na+ 127 mEq/L (critical low) and Hgb 7.9. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80048,NYCHH-PT-1048,12.7,10.3,0,146,30,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 30 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80049,NYCHH-PT-1049,14.4,12.1,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80050,NYCHH-PT-1050,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80051,NYCHH-PT-1051,13.3,7.7,2,136,0,0,PACU/Floor RN Note: Hgb dropped from 13.3 to 7.7 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80052,NYCHH-PT-1052,14.3,7.6,1,127,0,1,Floor RN Note: Post-op BMP Na+ 127 mEq/L (critical low) and Hgb 7.6. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80053,NYCHH-PT-1053,12.9,10.3,0,148,46,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 46 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80054,NYCHH-PT-1054,14.2,12.9,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80055,NYCHH-PT-1055,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80056,NYCHH-PT-1056,13.8,7.3,2,139,0,0,PACU/Floor RN Note: Hgb dropped from 13.8 to 7.3 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80057,NYCHH-PT-1057,13.0,7.5,1,126,0,1,Floor RN Note: Post-op BMP Na+ 126 mEq/L (critical low) and Hgb 7.5. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80058,NYCHH-PT-1058,13.4,10.7,0,147,44,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 44 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80059,NYCHH-PT-1059,13.8,12.0,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80060,NYCHH-PT-1060,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80061,NYCHH-PT-1061,13.5,7.6,2,139,0,0,PACU/Floor RN Note: Hgb dropped from 13.5 to 7.6 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80062,NYCHH-PT-1062,14.4,7.5,1,125,0,1,Floor RN Note: Post-op BMP Na+ 125 mEq/L (critical low) and Hgb 7.5. Started 3% NaCl bolus + fluid restriction and 1u PRBC.,0
+EPIC-ENC-80063,NYCHH-PT-1063,12.6,11.2,0,145,39,1,Neuro-ICU RN Note: Patient remained intubated on mechanical ventilation for 39 hrs post-op for airway/ICP protection. Administered IV Mannitol 20% and 23.4% hypertonic saline per ICP protocol.,0
+EPIC-ENC-80064,NYCHH-PT-1064,14.0,12.1,0,139,0,0,Floor RN / SLP Note: Failed bedside water swallow screen post-ACDF; SLP bedside evaluation confirmed acute post-op oropharyngeal dysphagia; placed on nectar-thick liquids & mechanical soft diet.,0
+EPIC-ENC-80065,NYCHH-PT-1065,13.4,12.6,0,137,0,0,Neuro RN Note: External ventricular drain / CSF lab gram stain positive for coagulase-negative staph; IV Vancomycin + Cefepime initiated per ID consult.,0
+EPIC-ENC-80066,NYCHH-PT-1066,13.7,7.4,2,141,0,0,PACU/Floor RN Note: Hgb dropped from 13.7 to 7.4 g/dL post-op. Transfused 2 units PRBC per protocol; JP drain output 340mL serosanguinous.,0
+EPIC-ENC-80067,NYCHH-PT-1067,13.6,12.2,0,138,0,0,Stable electrolytes and Hgb.,1
+EPIC-ENC-80068,NYCHH-PT-1068,12.7,11.4,0,139,2,0,Extubated in OR; transferred to Neuro step-down.,1
+EPIC-ENC-80069,NYCHH-PT-1069,14.5,12.1,0,139,0,0,Passed swallow screen; regular diet.,1
+EPIC-ENC-80070,NYCHH-PT-1070,13.4,12.6,0,137,0,0,Routine post-op shunt check.,1
+EPIC-ENC-80071,NYCHH-PT-1071,13.0,11.4,0,136,0,0,Routine PACU recovery; stable Hgb.,1
+EPIC-ENC-80072,NYCHH-PT-1072,14.5,11.8,0,138,0,0,Stable electrolytes and Hgb.,1
+EPIC-ENC-80073,NYCHH-PT-1073,12.8,10.7,0,139,2,0,Extubated in OR; transferred to Neuro step-down.,1
+EPIC-ENC-80074,NYCHH-PT-1074,13.2,12.6,0,139,0,0,Passed swallow screen; regular diet.,1
+EPIC-ENC-80075,NYCHH-PT-1075,13.4,12.6,0,137,0,0,Routine post-op shunt check.,1
+EPIC-ENC-80076,NYCHH-PT-1076,13.3,11.3,0,140,0,0,Routine PACU recovery; stable Hgb.,1
+EPIC-ENC-80077,NYCHH-PT-1077,14.3,12.1,0,138,0,0,Stable electrolytes and Hgb.,1
+EPIC-ENC-80078,NYCHH-PT-1078,13.4,10.3,0,139,2,0,Extubated in OR; transferred to Neuro step-down.,1
+EPIC-ENC-80079,NYCHH-PT-1079,14.1,12.3,0,139,0,0,Passed swallow screen; regular diet.,1
+EPIC-ENC-80080,NYCHH-PT-1080,13.4,12.6,0,137,0,0,Routine post-op shunt check.,1

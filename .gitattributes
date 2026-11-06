@@ -1,0 +1,4 @@
+* text=auto eol=lf
+/public/inputs/** -text
+*.png binary
+*.db binary

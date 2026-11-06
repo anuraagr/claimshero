@@ -1,0 +1,56 @@
+[
+  {
+    "name": "build_html.py",
+    "bytes": 37398,
+    "sha256": "f7bfa9c68d7d8010eb2de3c4f7fa23992ace97341cbd6cf1ca0169f86b243819",
+    "untouched": true
+  },
+  {
+    "name": "claims_baseline_vs_agent.csv",
+    "bytes": 48476,
+    "sha256": "bfb81dc8c4e6f071b088fdb05ff62aecca428c0f22ce6f64ac340858dafe48e6",
+    "untouched": true
+  },
+  {
+    "name": "epic_optime_nurse_logs.csv",
+    "bytes": 38351,
+    "sha256": "a106b9545c6167057d0ac7a66c0d9060d87537e555fb4640e483f1030d2e5a73",
+    "untouched": true
+  },
+  {
+    "name": "epic_postop_nursing_labs.csv",
+    "bytes": 15461,
+    "sha256": "d1742f751c489609b58597b5d9018afbe9b6251ee5b52dd096de7a770215f620",
+    "untouched": true
+  },
+  {
+    "name": "epic_surgeon_op_notes.csv",
+    "bytes": 54662,
+    "sha256": "ba38f565eb01bf73a42f50dc4b5d937dc97867ee9ff90d6899e413da66c9eabf",
+    "untouched": true
+  },
+  {
+    "name": "icd10_drg_reference.csv",
+    "bytes": 3686,
+    "sha256": "b17c01272d25c0e8888a461b187bd783e89156f61f7570db1197b91b89405692",
+    "untouched": true
+  },
+  {
+    "name": "neuro_rcm_epic.db",
+    "bytes": 249856,
+    "sha256": "8e4106bdde73bc1acda139fe34a16b69c93525bb28d5eb8e646178786005f42a",
+    "untouched": true
+  },
+  {
+    "name": "patients_census.csv",
+    "bytes": 16539,
+    "sha256": "79003271f6804cc2c665480b2d06bad379e3a385d65737aee6d14e16f3e02353",
+    "untouched": true
+  },
+  {
+    "name": "run_agent_demo.py",
+    "bytes": 3344,
+    "sha256": "3edf26d35d12456966195f7907d67f1aa92efddf5b5b7b12c01d52b7f07c2d5d",
+    "untouched": true
+  }
+]
